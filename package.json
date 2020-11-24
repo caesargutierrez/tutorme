@@ -1,0 +1,26 @@
+{
+  "name": "tutorme",
+  "version": "1.0.0",
+  "description": "Simple website to find tutors.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {
+    "firebase-tools": "^8.16.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caesargutierrez/tutorme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caesargutierrez/tutorme/issues"
+  },
+  "homepage": "https://github.com/caesargutierrez/tutorme#readme"
+}
