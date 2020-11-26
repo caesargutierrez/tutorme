@@ -1,2 +1,4 @@
 # tutorme
-Simple website to find tutors.
+Simple landing page for group project to
+promote idea.
+Used BootStrap Freelancer starting template.
