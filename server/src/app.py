@@ -9,7 +9,7 @@ def index():
     template = render_template('index.html', context=context)
     response = make_response(template)
     response.headers['cache-Control'] = 'public, max-age=300, s-maxage=600'
-    return 
+    return template
 
 def format_server_time():
     server_time = time.localtime()
